@@ -232,7 +232,8 @@
 }
 
 #first{
-    border: 2px solid purple;
+    max-width:800px;
+    height:700px;
 }
 .nav2 {
     background-color: black ;
